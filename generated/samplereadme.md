@@ -34,9 +34,9 @@ To use the app simply follow the command line prompts and you'll have a working 
 
 ### Contact:
 
-[Github](https://github.com/boylepeter/Readme_Generator)
+[Github](https://github.com/boylepeter/)
 
-[LinkedIn](https://linkedin.com)
+[LinkedIn](https://www.linkedin.com/in/peter-boyle-22b5071b7/)
 
 Email: [boyle.peter614@gmail.com](boyle.peter614@gmail.com)
 
